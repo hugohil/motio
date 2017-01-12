@@ -1,6 +1,7 @@
 {
 	"name": "motio",
 	"version": "0.0.0",
+	"main": "dist/motio.min.js",
 	"devDependencies": {
 		"grunt-contrib-jshint": "~0.7.2",
 		"grunt-contrib-concat": "~0.3.0",
